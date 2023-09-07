@@ -2,8 +2,7 @@
   "adKinds": [
     {
       "adIds": [
-        "appOpen",
-        "native"
+        "appOpen"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/3830791269",
@@ -14,8 +13,7 @@
     },
     {
       "adIds": [
-        "appOpen",
-        "native"
+        "appOpen"
       ],
       "kind": "applovin",
       "banner": "ae18527a89238e49",
@@ -24,5 +22,9 @@
       "native": "809cde2edb931ab9",
       "appOpen": "a782849e8f6ffa61"
     }
-  ]
+  ],
+  "sads": "aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=",
+  "dltm": 1,
+  "yekipa": "0f020a66f3e35379eef31c31363f2176",
+  "rateApp": true
 }
