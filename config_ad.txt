@@ -24,7 +24,7 @@
     }
   ],
   "sads": "aHR0cHM6Ly9waG90b215Lnh5eg==",
-  "dltm": 123,
+  "dltm": 1,
   "yekipa": "0f020a66f3e35379eef31c31363f2176",
   "rateApp": false
 }
