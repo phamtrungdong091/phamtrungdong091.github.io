@@ -3,7 +3,7 @@
     {
       "adIds": [
         "appOpen",
-        "splash"
+        "native"
       ],
       "kind": "admob",
       "banner": "ca-app-pub-2299291161271404/3830791269",
@@ -14,7 +14,8 @@
     },
     {
       "adIds": [
-        "appOpen"
+        "appOpen",
+        "native"
       ],
       "kind": "applovin",
       "banner": "ae18527a89238e49",
